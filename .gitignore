@@ -18,6 +18,7 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 *.generated.swift
+.DS_Store
 
 ## Obj-C/Swift specific
 *.hmap
